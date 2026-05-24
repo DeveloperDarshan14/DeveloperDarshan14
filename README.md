@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeveloperDarshan14
 - 👀 I’m interested in ...Mobile Development
-- 🌱 I’m currently learning ...Provider Pattern in flutter
+- 🌱 I’m currently learning ...Bloc Pattern in flutter
 - 💞️ I’m looking to collaborate on ....Mobile Development
 - 📫 https://www.linkedin.com/in/darshan-dayma-19548896?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
